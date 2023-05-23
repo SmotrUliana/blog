@@ -3,7 +3,7 @@
 namespace App\Observers;
 
 use App\Models\BlogCategory;
-
+use illuminate\Support\Str;
 class BlogCategoryObserver
 {
 
